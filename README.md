@@ -87,13 +87,6 @@ Thank you for being involved! :heart_eyes:
 
 We are currently not accepting third party add-ons to this repository.
 
-For questions, please contact [Franck Nijhof][frenck]:
-
-- Drop him an email: frenck@addons.community
-- Chat with him on [Discord Chat][discord]
-- Message him via the forums: [frenck][forum-frenck]
-
-
 [addon-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/tree/v0.0.2
 [addon-doc-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/blob/v0.0.2/README.md
 [ser2net-issue]: https://github.com/jhollowe-addons/addon-ser2net/issues
