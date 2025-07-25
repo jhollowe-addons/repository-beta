@@ -1,0 +1,1 @@
+**Full Changelog**: https://github.com/jhollowe-addons/addon-mqtt-io/compare/v0.4.1...v0.4.2
